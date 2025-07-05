@@ -56,6 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=batool2azzam&layout=compact&langs_count=6&theme=highcontrast" height="150"/>
+  <br><br/>
   <img src="https://streak-stats.demolab.com/?user=batool2azzam&theme=highcontrast" height="150"/>
 </p>
 
