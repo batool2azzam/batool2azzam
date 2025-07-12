@@ -1,5 +1,32 @@
-<h1 align="center">Hi 👋 I'm Batool</h1>
-<h2 align="center">Software Engineer | Full Stack Developer</h2>
+<h2 align="center">Hi 👋 I'm Batool</h2>
+
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
+
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
 
 ---
 
@@ -19,34 +46,43 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts" height="30" />
+      <img src="https://skillicons.dev/icons?i=js" height="30" />
+      <img src="https://skillicons.dev/icons?i=py" height="30" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="30" />
+    </td>
+    <td align="center">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html" height="30" />
+      <img src="https://skillicons.dev/icons?i=css" height="30" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
+      <img src="https://skillicons.dev/icons?i=react" height="30" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
+      <img src="https://skillicons.dev/icons?i=express" height="30" />
+      <img src="https://skillicons.dev/icons?i=nestjs" height="30" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="30" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
+    </td>
+    <td align="center">
+      <strong>Tools</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker" height="30" />
+      <img src="https://skillicons.dev/icons?i=postman" height="30" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="30" />
+      <img src="https://skillicons.dev/icons?i=figma" height="30" />
+    </td>
+  </tr>
+</table>
 
-#### Languages
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
-
-#### Frontend 
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
-
-#### Backend 
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
-
-#### Tools 
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />
-</div>
 
 ---
 
